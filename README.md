@@ -11,18 +11,8 @@ Requisitos
 Windows 10 u 11.
 SDK de .NET 10.
 Visual Studio 2022 (17.14 o superior) o Visual Studio 2026 con la carga de trabajo Desarrollo de escritorio con .NET. También se puede usar solo el SDK desde la terminal.
-Cómo abrirlo y ejecutarlo
 
-Con Visual Studio
 
-Descomprimir el zip.
-Abrir MetodosBusqueda.sln con doble clic.
-Pulsar F5 para compilar y ejecutar.
-Para ver el diseñador, abrir Form1.cs desde el Explorador de soluciones.
-
-Con la terminal
-
-cd MetodosBusqueda
 dotnet run
 Uso de la aplicación
 Capturar los parámetros en el panel superior (o dejar los valores iniciales).
